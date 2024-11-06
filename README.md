@@ -76,16 +76,15 @@ The system provides comprehensive API endpoints for interacting with hotel data.
 
 ### Maintenance Mode Middleware:
 - This middleware can activate a maintenance mode for the system. This functionality is supported by an additional database table to control maintenance status.
-
+### Global Exception Middleware
+- This middleware intercepts and handles unhandled exceptions throughout the application, providing a unified error response. It ensures that users receive a consistent error message while logging detailed exception information for developers.
 ---
 
 ## Business Logic
 
 The **Business Layer** implements various services, with logic encapsulated to ensure data integrity and proper application flow. This layer handles crucial operations such as:
-- Room availability checks
-- Booking status updates
-- Guest registration
-
+- User register checks
+- Member profil updates
 ---
 
 ## Data Layer
