@@ -1,6 +1,8 @@
 
-# FitGoalApp
-FitGoalApp is an application built with ASP.NET Core, where users can register, log in, and create their own profiles.This project follows a layered architecture and incorporates essential features like authentication, authorization, logging, and error handling.
+# FitGoalsApp
+
+-FitGoalApp is an application built with ASP.NET Core, where users can register, log in, and create their own profiles.This project follows a layered architecture and incorporates essential features like authentication, authorization, logging, and error handling.
+
 ---
 
 ## Table of Contents
