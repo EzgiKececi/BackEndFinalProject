@@ -1,0 +1,15 @@
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\bin\Debug\net8.0\FitGoalsApp.Business.deps.json
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\bin\Debug\net8.0\FitGoalsApp.Business.dll
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\bin\Debug\net8.0\FitGoalsApp.Business.pdb
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\bin\Debug\net8.0\FitGoalsApp.Data.dll
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\bin\Debug\net8.0\FitGoalsApp.Data.pdb
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\FitGoalsApp.Business.csproj.AssemblyReference.cache
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\FitGoalsApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\FitGoalsApp.Business.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\FitGoalsApp.Business.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\FitGoalsApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\FitGoals.68C9D1CA.Up2Date
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\FitGoalsApp.Business.dll
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\refint\FitGoalsApp.Business.dll
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\FitGoalsApp.Business.pdb
+C:\Users\Yavuz\source\repos\FitGoalsApp\FitGoalsApp.Business\obj\Debug\net8.0\ref\FitGoalsApp.Business.dll
