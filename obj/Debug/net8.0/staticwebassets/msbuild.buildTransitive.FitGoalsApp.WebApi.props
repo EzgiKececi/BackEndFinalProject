@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FitGoalsApp.WebApi.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O/TXQkAFF1imXq0LqhmFC8IH9rxUkd5MjT9h+RZm93c=",
+  "Source": "FitGoalsApp.WebApi",
+  "BasePath": "_content/FitGoalsApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
