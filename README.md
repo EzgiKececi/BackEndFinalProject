@@ -65,7 +65,7 @@ The system provides comprehensive API endpoints for interacting with hotel data.
 - **PATCH**: Partially update records
 - **DELETE**: Remove members
 
-![API Endpoints](image)
+![API Endpoints](images/logo.png)
 
 ---
 
